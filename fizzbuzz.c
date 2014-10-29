@@ -3,7 +3,7 @@
 int main(){
     int i;
 
-    for(i=0; i<=30; i++){
+    for(i=0; i<=100; i++){
         if((i!=0) && (i%15 == 0)){
             printf("fizzbuzz\n");
         }
